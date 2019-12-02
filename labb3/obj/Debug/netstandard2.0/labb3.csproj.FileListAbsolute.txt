@@ -1,0 +1,13 @@
+/Users/bejan/Desktop/labb3/labb3/bin/Debug/netstandard2.0/labb3.deps.json
+/Users/bejan/Desktop/labb3/labb3/bin/Debug/netstandard2.0/labb3.dll
+/Users/bejan/Desktop/labb3/labb3/bin/Debug/netstandard2.0/ref/labb3.dll
+/Users/bejan/Desktop/labb3/labb3/bin/Debug/netstandard2.0/labb3.pdb
+/Users/bejan/Desktop/labb3/labb3/obj/Debug/netstandard2.0/labb3.csprojAssemblyReference.cache
+/Users/bejan/Desktop/labb3/labb3/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/bejan/Desktop/labb3/labb3/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/bejan/Desktop/labb3/labb3/obj/Debug/netstandard2.0/labb3.AssemblyInfoInputs.cache
+/Users/bejan/Desktop/labb3/labb3/obj/Debug/netstandard2.0/labb3.AssemblyInfo.cs
+/Users/bejan/Desktop/labb3/labb3/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/bejan/Desktop/labb3/labb3/obj/Debug/netstandard2.0/labb3.dll
+/Users/bejan/Desktop/labb3/labb3/obj/Debug/netstandard2.0/ref/labb3.dll
+/Users/bejan/Desktop/labb3/labb3/obj/Debug/netstandard2.0/labb3.pdb

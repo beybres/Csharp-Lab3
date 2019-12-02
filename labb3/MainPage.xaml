@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="labb3.MainPage">
+    <StackLayout>
+        <Button x:Name="EightPercent" Text="8%" Clicked="OnBottomClicked"/>
+        <Button x:Name="TwelvePercent" Text="12%" Clicked="OnMiddleClicked"/>
+        <Button x:Name="TwentyFivePercent" Text="25%" Clicked="OnTopClicked"/>
+        <Label Text="Inmatat belopp:" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" />
+        <Label x:Name="Belopp" HorizontalOptions="Center"/>
+        <Label Text="Momssats:" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" />
+        <Label x:Name="Moms" HorizontalOptions="Center"/>
+        <Label Text="Uträknat belopp:" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" />
+        <Label x:Name="UtBelopp" HorizontalOptions="Center"/>
+        <Label Text="Uträknad moms:" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" />
+        <Label x:Name="UtMoms" HorizontalOptions="Center"/>
+        <Entry x:Name="UserInput" Placeholder="Skriv ett belopp inklusive moms"></Entry>
+    </StackLayout>
+</ContentPage>
